@@ -20,4 +20,4 @@ design:
 
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+The *Magnetic Resonance Biomedical Engineering Lab (MRBEL)*, led by Dr. Joseph Rispoli, develops and applies novel technology and methodologies to better exploit magnetic resonance imaging and spectroscopy for clinical and research use.
