@@ -7,8 +7,7 @@ widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
-  Wowchemy  
-  Research Group
+  Smidrų ūkis
 hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -20,4 +19,4 @@ design:
 
 <br>
 
-The **Magnetic Resonance Biomedical Engineering Lab (MRBEL)**, led by Dr. Joseph Rispoli, develops and applies novel technology and methodologies to better exploit magnetic resonance imaging and spectroscopy for clinical and research use.
+Auginame smidrus ir avietes nuo 2017 metų. Mylime Berno Zenenhundus :)
