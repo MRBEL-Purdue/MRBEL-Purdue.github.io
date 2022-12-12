@@ -69,4 +69,4 @@ related:
 security:
   _merge: deep
 sitemap:
-  _merge: deep
+#   _merge: deep
