@@ -20,4 +20,4 @@ design:
 
 <br>
 
-The *Magnetic Resonance Biomedical Engineering Lab (MRBEL)*, led by Dr. Joseph Rispoli, develops and applies novel technology and methodologies to better exploit magnetic resonance imaging and spectroscopy for clinical and research use.
+The **Magnetic Resonance Biomedical Engineering Lab (MRBEL)**, led by Dr. Joseph Rispoli, develops and applies novel technology and methodologies to better exploit magnetic resonance imaging and spectroscopy for clinical and research use.
